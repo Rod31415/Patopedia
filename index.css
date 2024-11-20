@@ -1,0 +1,242 @@
+
+/*////////////////General///////////////////*/
+
+
+*{
+	padding: 0px;
+	margin: 0px;
+	
+font-family:Agency FB;	
+color: #222;
+
+}
+
+body{
+display: inline-block;
+
+}
+
+img{
+
+width: 55%;
+
+}
+
+
+hr{
+
+border-color: #000000;
+
+}
+
+p{
+font-size: 23px;
+
+
+}
+h1{
+font-family: verdana;
+font-size: 28px;
+font:bold;
+color: #444;
+}
+h2{
+font-family: verdana;
+font-size: 20px;
+font:bold;
+color: #777;
+}
+
+video{
+
+width: 30%;
+
+}
+
+/*///////////////////////////////////////*/
+
+
+
+
+
+
+
+
+
+
+/*/////////////Cabecera/Header///////////////////*/
+#cabecera{
+
+background-color: #FFFBB9;
+border: 1px solid #000000;
+padding: 20px;
+height: 70px;
+width:95.58vw;
+}
+#cabecera h1{
+	background-color: #FFFBB9;
+margin-top: 16px;
+margin-left: 50px;
+}
+#cabecera img {
+	width: 40px;
+	margin-top: 10px;
+float:left;
+image-rendering: pixelated;
+filter: drop-shadow(-2px 2px 2px rgba(0, 0, 0, 0.7));
+}
+/*/////////////////////////////////////////////*/
+
+
+
+
+
+
+
+
+
+
+
+/*///////////////Seccion/Section//////////////////*/
+#seccion{
+	
+	border-radius: 10px;
+width:70% ;
+ margin:auto;
+background-color: #FFFBB9;
+padding: 10px;
+}
+
+
+
+#welcome{
+border-radius: 10px;
+background-color:#FFFB90 ;
+margin-bottom: 20px;
+
+}
+#NP{
+
+margin-bottom: 25px;
+
+}
+#NP img{
+width:50%;
+border-radius: 5px;
+
+}
+
+
+#infopat{
+margin-bottom: 15px;
+
+}
+#infopat h3{
+
+margin-left: 10px;
+font-size: 25px;
+} 
+
+#infopat img{
+
+width:55%;
+border-radius: 5px;
+
+}
+#guerra p{
+
+font-size: 23px;
+
+}
+#guerra hr{
+
+border-color: #000000;
+
+}
+#guerra b{
+
+font-size: 27px;
+
+}
+#cro img{
+width: 100%;
+
+
+}
+
+/*///////////////////////////////////////*/
+
+
+
+
+
+
+
+
+/*///////////////Menu/Nav/////////////////*/
+
+
+#menu{
+height:30px;
+
+font-size: 25px;
+background: #222;
+
+padding: 5px 50px;
+
+margin: auto;
+}
+#menu li{
+display: inline;
+	padding:auto;
+color: #FFF;
+list-style: none;
+margin-right: 30px;
+}
+
+/*/////////////////////////////////*/
+
+
+
+
+
+
+
+
+
+/*//////////Panel/Aside////////////*/
+
+#panel{
+
+margin-left: 15%;
+padding: 20px;
+}
+#panel p{
+color: #ffffff;
+}
+#panel p b{
+color: #ffffff;
+}
+/*//////////////////////////////////*/
+
+
+
+
+
+
+
+
+/*//////////////Pie/Footer//////////*/
+#pie{
+
+width: 300px;
+margin: auto;
+margin-top: 20px;
+}
+
+#pie p{
+color: #FFF;
+font-size: 22px;
+
+}
+/*////////////////////////////////////*/
